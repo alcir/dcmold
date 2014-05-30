@@ -12,7 +12,7 @@ public class dcmOld {
 	//public static final String datefrom = "20000101";
 
 	/**
-	 * @param args
+	 * @param args 
 	 */
 	public static void main(String[] args) {
 		

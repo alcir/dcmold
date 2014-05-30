@@ -14,7 +14,7 @@ public class query {
 
     private String date;
     // private String[] calledAETAddress;
-    // private int hostPort;
+    // private int hostPort; 
     private String remoteHost;
     private int remotePort;
     private String calledAETitle;
